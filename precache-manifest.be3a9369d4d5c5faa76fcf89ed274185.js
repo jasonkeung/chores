@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45dd13ff14e674ceba27879ace730483",
+    "revision": "f64a29ed5fa93fdabb79f31efde990ed",
     "url": "/chores/index.html"
   },
   {
