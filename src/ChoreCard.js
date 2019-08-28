@@ -20,7 +20,7 @@ class ChoreCard extends React.Component {
     }
 
     render() {
-      return <div><Card bg="light" text="black" border="info" className="mx-auto" style={{"max-width": "22rem"}}>
+      return <div><Card bg="light" text="black" border="info" className="mx-auto" style={{"max-width": "26rem"}}>
         <Card.Body>
           <Card.Title>{this.names[this.state.rotation]}</Card.Title>
           <Card.Subtitle className="mb-2 text-muted">Chores for week of {this.getThisSunday()}</Card.Subtitle>
