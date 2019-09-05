@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chores/static/css/main.e33549e7.chunk.css",
-    "main.js": "/chores/static/js/main.654210dc.chunk.js",
-    "main.js.map": "/chores/static/js/main.654210dc.chunk.js.map",
+    "main.js": "/chores/static/js/main.c77dbcb0.chunk.js",
+    "main.js.map": "/chores/static/js/main.c77dbcb0.chunk.js.map",
     "runtime~main.js": "/chores/static/js/runtime~main.ce166c5a.js",
     "runtime~main.js.map": "/chores/static/js/runtime~main.ce166c5a.js.map",
     "static/js/2.f9cb0832.chunk.js": "/chores/static/js/2.f9cb0832.chunk.js",
     "static/js/2.f9cb0832.chunk.js.map": "/chores/static/js/2.f9cb0832.chunk.js.map",
     "index.html": "/chores/index.html",
-    "precache-manifest.e28d6e790e2d0f3cdd78bd4cdf6fd8b9.js": "/chores/precache-manifest.e28d6e790e2d0f3cdd78bd4cdf6fd8b9.js",
+    "precache-manifest.d11b6ab48b53b713424d1d8270b8275f.js": "/chores/precache-manifest.d11b6ab48b53b713424d1d8270b8275f.js",
     "service-worker.js": "/chores/service-worker.js",
     "static/css/main.e33549e7.chunk.css.map": "/chores/static/css/main.e33549e7.chunk.css.map"
   }
