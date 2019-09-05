@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cfe0c84f74b5303e3665634ea16609b",
+    "revision": "d8828cf4eed0d6055bdbe10c3022d4e9",
     "url": "/chores/index.html"
   },
   {
-    "revision": "2cc92d61dc20cc0685da",
+    "revision": "00c57c3c9734611b95b7",
     "url": "/chores/static/css/main.e33549e7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chores/static/js/2.f9cb0832.chunk.js"
   },
   {
-    "revision": "2cc92d61dc20cc0685da",
-    "url": "/chores/static/js/main.fc694d34.chunk.js"
+    "revision": "00c57c3c9734611b95b7",
+    "url": "/chores/static/js/main.654210dc.chunk.js"
   },
   {
     "revision": "f2ff9e61757aa6e0e1fd",
