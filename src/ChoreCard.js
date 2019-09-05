@@ -6,7 +6,7 @@ class ChoreCard extends React.Component {
     constructor(props) {
         super(props)
         this.state = {
-            rotation: this.props.shift
+            rotation: this.props.shift + 1
         }
         this.names = ["Jason", "Steve", "Andrew", "Steven", "AJ"]
     }
@@ -22,7 +22,7 @@ class ChoreCard extends React.Component {
     render() {
       return <div><Card bg="light" text="black" border="info" className="mx-auto" style={{"max-width": "26rem"}}>
         <Card.Body>
-          <Card.Title>{this.names[this.state.rotation]}</Card.Title>
+          <Card.Title>{this.names[this.state.rotation % 5]}</Card.Title>
           <Card.Subtitle className="mb-2 text-muted">Chores for week of {this.getThisSunday()}</Card.Subtitle>
           <Card.Text>
             {this.props.chore}
